@@ -1,10 +1,7 @@
 //
 //  FacebookLoginHelper.swift
-//  SocialLogins
-//
-//  Created by Ongraph on 22/11/19.
-//  Copyright © 2019 Ongraph. All rights reserved.
-//
+
+
 
 import Foundation
 import FacebookCore
